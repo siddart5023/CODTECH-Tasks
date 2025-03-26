@@ -16,3 +16,4 @@ This Java project demonstrates basic file operations such as reading, writing, a
 The implementation leverages Java's built-in file handling classes like BufferedReader, BufferedWriter, and FileReader, ensuring efficient and straightforward file manipulation. This project serves as an excellent starting point for anyone aiming to understand file handling concepts in Java.
 
 OUTPUT OF THE TASK:
+![Screenshot 2025-03-26 192512](https://github.com/user-attachments/assets/0330da61-5a2e-41f5-9389-ef71af466458)
